@@ -4,7 +4,7 @@ Projeto criado para aprender mais sobre a funcionalidade de consumo de API's.
 
 ## Funcionalidades
 
-- O sistema colhe o que foi digitado, faz todas as correções para o número do CEP ser o mais correto possível, e ao clicar do mouse no botão "busca" ou pelo <enter>, efetua a busca no ViaCEP e retorna com CEP válido, ou emite alertas dizendo, se não achou o CEP ou se o número está errado 
+- O sistema colhe o que foi digitado, faz todas as correções para o número do CEP ser o mais correto possível, e ao clicar do mouse no botão "busca" ou pelo "enter", efetua a busca no ViaCEP e retorna com CEP válido, ou emite alertas dizendo, se não achou o CEP ou se o número está errado 
 
 ## Tecnologias utilizadas
 
